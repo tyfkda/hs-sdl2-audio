@@ -1,0 +1,8 @@
+.stack-work/
+cabal-helper*.build
+/tmp/
+
+*.exe
+*.o
+*.hi
+*.cabal
